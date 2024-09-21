@@ -1,5 +1,5 @@
-# Project Name
-> Outline a brief description of your project.
+# Lending Club 
+> Lending club project detail.
 
 
 ## Table of Contents
@@ -19,18 +19,30 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+A. Major Driving factor which can be used to predict the chance of defaulting and avoiding Credit Loss:
+i. DTI
+ii. Grades
+ii. Verification Status
+iv. Annual income
+v. Pub_rec_bankruptcies
+
+B. Other considerations for 'defaults' :
+i. Burrowers from large urban cities like california, new york, texas, florida etc.
+ii. Burrowers having annual income in the range 50000-100000.
+iii. Burrowers having Public Recorded Bankruptcy.
+iv. Burrowers with least grades like E,F,G which indicates high risk.
+v. Burrowers with very high Debt to Income value.
+vi. Burrowers with working experience 10+ years.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+Pandas 
+NumPy 
+Seaborn 
+MatplotLib
+
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
@@ -42,7 +54,7 @@ Give credit here.
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@debnathch] - feel free to contact me!
 
 
 <!-- Optional -->
